@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.event.*;
 
-public class botonXD {
+public class EStructuras {
 
     public static void main(String[] args) {
 
